@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: DDT Core Plug-in
+Bundle-SymbolicName: org.drupal.plugin.core;singleton:=true
+Bundle-Version: 1.0.0.dev
+Bundle-Activator: org.drupal.plugin.core.Activator
+Bundle-Vendor: Drupal.org
+Require-Bundle: org.eclipse.core.runtime
+Bundle-RequiredExecutionEnvironment: J2SE-1.5
+Bundle-ActivationPolicy: lazy
